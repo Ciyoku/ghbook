@@ -38,8 +38,3 @@ ____________
 ```
 
 Main text is preserved as-is; footnotes are appended below the separator.
-
-## Notes
-
-* The repository is prepared for publishing to PyPI using a Trusted Publisher workflow, but publishing is optional.
-* GitHub Actions workflow is at `.github/workflows/publish.yml` for automatic builds if desired.
